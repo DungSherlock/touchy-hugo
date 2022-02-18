@@ -20,3 +20,5 @@ fields:
 - type: list
   name: categories
   label: categories
+pages:
+- content/post/test-web-binh-linh.md
